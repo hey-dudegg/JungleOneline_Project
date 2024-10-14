@@ -31,6 +31,9 @@
 # 사용 언어 및 프레임워크
 - Flask, MongoDB, JWT, AWS EC2 (Ubuntu Linux)
 
+# 아키텍처
+![image](https://github.com/user-attachments/assets/5015baca-a135-47d7-8ab8-8873db42cfd5)
+
 # 담당 업무 및 성과 (백엔드 70%, 주관적 수치)
 - **핵심 기능 REST API 구현**: 키워드, 한 줄 평 등 주요 기능을 REST API로 설계 및 구현 
 - **JWT 활용 로그인/검증 시스템 구축**: 인증 및 인가 기능 구현
@@ -38,9 +41,6 @@
 - **AWS EC2 배포**: Linux 기반 EC2 인스턴스에 웹 서비스 배포 및 운영
 - **스프린트 룰 활용**: 압축적인 스프린트 개발을 통한 효율적인 개발 사이클 경험
 
-# 아키텍처
-
-![image](https://github.com/user-attachments/assets/5015baca-a135-47d7-8ab8-8873db42cfd5)
 
 # 주요 기능
 ## Main 페이지에서 목록 보기 및 blur 기능
